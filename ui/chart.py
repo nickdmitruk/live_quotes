@@ -148,3 +148,6 @@ class ChartUI:
         self.ax.autoscale_view()
 
         return ()
+
+
+#Потом надо сделать приближение и наслоение
