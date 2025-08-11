@@ -1,0 +1,20 @@
+# Тема/стиль
+COLOR_BG = "#0d1117"
+COLOR_GRID = "#ffffff"
+GRID_ALPHA = 0.10
+
+COLOR_CANDLE_UP = "#A2DD84"   # зелёная
+COLOR_CANDLE_DOWN = "#FFFFFF" # белая
+COLOR_LINE = "#A2DD84"
+COLOR_PRICE_LINE = "#A2DD84"
+COLOR_PRICE_LABEL_TEXT = "#0d1117"
+COLOR_PRICE_LABEL_BG = "#A2DD84"
+
+# Параметры графика
+SYMBOL = "EURUSD"
+TIMEFRAME = "M1"
+HISTORY_BARS = 1000
+ANIMATE_INTERVAL_MS = 500
+
+# Рендер
+BACKEND = "TkAgg"  # для macOS стабильнее всего
